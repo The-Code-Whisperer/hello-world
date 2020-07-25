@@ -1,5 +1,1 @@
-# hello-world
-
-Hi, 
-
-This is the first github file I've ever written. I hope whatever I put in here in the future is of some use to you.
+cracks md5 hashes. couple minutes for a 4 letter string, letters only upper and lower case.
